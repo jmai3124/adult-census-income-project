@@ -17,11 +17,8 @@ adult-census-income-project/
 ├── data/
 │   └── raw/
 │       └── train.csv                              # Kaggle Adult Census Income dataset
-├── reports/
-│   ├── Final_Report.docx
-│   └── figures/                                    # exported confusion matrices, ROC curves, feature importance plots
 └── slides/
-    └── Final_Presentation.pptx
+    └── Adult_Census_Income_Final_Project.pptx
 ```
 
 ## Models & Work Split
